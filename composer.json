@@ -21,9 +21,9 @@
         }
     ],
     "require": {
-        "illuminate/support": "^5.4",
-        "illuminate/database": "^5.4",
-        "illuminate/cache": "^5.4",
+        "illuminate/support": "^6.2",
+        "illuminate/database": "^6.2",
+        "illuminate/cache": "^6.2",
         "php" : "~7.0",
         "google/cloud": ">=0.49 <=0.60"
     },
